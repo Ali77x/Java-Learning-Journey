@@ -1,0 +1,3 @@
+interface Supervisor{
+    void supervise();
+}
